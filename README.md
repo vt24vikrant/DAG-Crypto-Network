@@ -147,12 +147,6 @@ Edit `config.py` to adjust:
 
 ---
 
-## 📝 License
-
-This project is open-source under the MIT License.
-
----
-
 ## 🤝 Acknowledgements
 
 Inspired by:
